@@ -1,5 +1,11 @@
 # List of solved problems
 
+## Codeforces
+
+## Codeforces 334
+- 1
+- 3
+
 ## URI Online Judge
 - 1001
 - 1002
