@@ -1,8 +1,12 @@
 # List of solved problems
 
 ## Codeforces
-- Codeforces #334 - 1
-- Codeforces #334 - 3
+- Codeforces #334 (1, 3)
+
+## Facebook Hacker Cup 2016
+- 1. Boomerang Constellations
+- 2. High Security
+- 3. The Price is Correct
 
 ## URI Online Judge
 - 1001
