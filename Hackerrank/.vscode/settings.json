@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "iostream": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "valarray": "cpp"
+    }
+}

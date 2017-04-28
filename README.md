@@ -2,12 +2,14 @@
 
 ## Codeforces
 - Codeforces #334 (1, 3)
+- Codeforces #341 (1, 2, 3)
+- Codeforces #403
 
-## Facebook Hacker Cup 2016
-- Qualification Round
+## Facebook Hacker Cup
+- 2016 - Qualification Round
 
-## Google Code Jam 2016
-- Qualification Round
+## Google Code Jam
+- 2016 - Qualification Round
 
 ## URI Online Judge
 - 1001
